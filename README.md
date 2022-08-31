@@ -1,2 +1,2 @@
 My first readme
-best programmer
+good programmer
